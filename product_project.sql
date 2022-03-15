@@ -1,0 +1,1 @@
+CREATE database products_database
